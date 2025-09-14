@@ -1,0 +1,19 @@
+* - недоделано или планируется быть сделанным
+
+test
+
+*js-objects
+*js-scope
+js-async
+js-engine
+*js-requests
+*js-modules
+
+*git
+node-npm
+
+vue-vite
+vue-start
+vue-state
+*vue-forms
+...
