@@ -6,7 +6,8 @@ test
 *js-scope
 js-async
 js-engine
-*js-requests
+js-requests
+js-request-data
 *js-modules
 
 *git
