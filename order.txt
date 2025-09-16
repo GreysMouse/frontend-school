@@ -16,5 +16,11 @@ node-npm
 vue-vite
 vue-start
 vue-state
+vue-pagination
+*vue-events
 *vue-forms
 ...
+
+
+добавить в vue-start вынос стилей цветовой схемы
+про cors забыли сказать
