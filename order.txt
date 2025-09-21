@@ -18,4 +18,4 @@ vue-start
 vue-state
 vue-pagination
 vue-forms
-*vue-final
+vue-xss
