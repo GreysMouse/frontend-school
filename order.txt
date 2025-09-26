@@ -3,7 +3,7 @@
 test
 
 *js-objects
-*js-scope
+js-scope
 js-async
 js-engine
 js-requests
