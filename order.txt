@@ -2,7 +2,7 @@
 
 test
 
-*js-objects
+js-objects
 js-scope
 js-async
 js-engine
