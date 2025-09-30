@@ -4,16 +4,17 @@ test
 
 js-objects
 js-scope
+
+html
+css
+
 js-async
 js-engine
 js-requests
 js-request-data
 js-modules
 
-*html
-css
-
-*git
+git
 
 node-npm
 
